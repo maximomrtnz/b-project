@@ -4,8 +4,7 @@
     <string name="app_name">Grenouille</string>
     <string name="action_settings">Settings</string>
     
-    
     <!-- Conversor Layout Strings -->
-    <string name="text_input_money">Moneda entrada</string>
+    <string name="text_input_money">Input money</string>
 
 </resources>
